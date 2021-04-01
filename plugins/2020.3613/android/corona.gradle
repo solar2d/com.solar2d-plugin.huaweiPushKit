@@ -1,0 +1,10 @@
+repositories {
+    maven {
+        url "https://developer.huawei.com/repo/"
+    }
+}
+
+dependencies {
+	implementation 'com.huawei.hms:push:5.0.4.302'
+}
+
